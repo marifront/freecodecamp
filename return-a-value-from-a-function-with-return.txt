@@ -1,0 +1,7 @@
+function timesFive(num) {
+  return num * 5;
+}
+
+const sum = timesFive(5);
+
+console.log(sum);
